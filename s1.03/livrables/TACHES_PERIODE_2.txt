@@ -1,0 +1,7 @@
+SAÉ 1.03 Installation d'un poste de développement - Partie 2
+
+Répartition des tâches :
+    - Ilan MATHIEU : gendoc-tech.php + + TACHES_PERIODE_2.txt : 30%
+    - Yoan THOUVENIN : doc.md + page de couverture des fichiers pdf : 15%
+    - Victor LE BRAS : gendoc-user.php : 25%
+    - Léo BLÉAS : sae103.bash + doc.md + TACHES_PERIODE_2.txt : 30%
