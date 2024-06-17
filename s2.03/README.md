@@ -1,1 +1,2 @@
-### à modifier
+# Projet 3 du second semestre
+Dans ce projet, il nous était demandé de mettre en place un environnement web fonctionnel avec un serveur Apache configuré, des pages web dynamiques, une authentification utilisateur et une personnalisation des pages. L'environnement comprenait un espace administrateur avec une authentification gérée par le serveur Apache, ainsi qu'un espace web sécurisé avec une authentification utilisateur basée sur MySQL.
